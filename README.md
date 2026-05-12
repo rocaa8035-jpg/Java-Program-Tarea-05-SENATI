@@ -4,7 +4,7 @@ En esta tarea el objetivo es crear 2 programas en java que satisfagan el caso.
 
 Caso 1: El programa exige datos de un trabajador y apartir de ellos se calcula el monto a pagar, descuento y monto total.
 
-Caso 2: El programa exige 4 notas de un estudiante y retorna su promedio, esyado y calificación.
+Caso 2: El programa exige 4 notas de un estudiante y retorna su promedio, estado y calificación.
 
 ## 🚀 Requisitos Previos
 
