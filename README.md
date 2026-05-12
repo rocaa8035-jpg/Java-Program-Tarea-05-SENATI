@@ -28,12 +28,6 @@ Sigue estos pasos para compilar y ejecutar el archivo Java:
     *   Abre el archivo `Caso01.java` o `Caso02.java`.
     *   Haz clic en el enlace `Run` que aparece justo encima del método `public static void main`(https://www.youtube.com/watch?v=dO2rEgfOJRg).
 
-    *Alternativa (Terminal):*
-    ```bash
-    javac -d bin src/Caso01.java
-    java -cp bin Caso01
-    ```
-
 ## 🛠️ Tecnologías Utilizadas
 
 *   Java SE 17
